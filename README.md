@@ -13,6 +13,7 @@ Love security, love programming
 - [Killyou3000](https://github.com/Vincebye/Killyou3000) Integrate with other security tools.
 - [ref](https://github.com/Vincebye/ref) Look up links from historical archives For bughunter.
 - [UBW](https://github.com/Vincebye/Unlimited-Blade-Works) A plug-in security scanner.
+- JSFuzz A fuzzer for V8 Engine
 
 <!--
 **Vincebye/Vincebye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
