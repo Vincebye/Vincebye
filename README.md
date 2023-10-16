@@ -1,6 +1,6 @@
 Hi👋 , I am Vincebye
 -------------------------------------
-Love security, love programming
+Love security, love coding.
 - 🌱 I’m currently learning security and rust.
 - 📫 How to reach me: 0xvincebye@gmail.com
 ## Skill
